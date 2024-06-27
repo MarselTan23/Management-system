@@ -5,7 +5,7 @@
 
 # Website Management System LBUT (Liga Bulutangkis Universitas Tarumanagara)
 
-Website Management System LBUT adalah sistem manajemen berbasis web yang dirancang untuk mengelola berbagai aspek dari Liga Bulutangkis Universitas Tarumanagara. Proyek ini bertujuan untuk mempermudah pengorganisasian dan pengelolaan liga, termasuk pendaftaran pemain, jadwal pertandingan, pencatatan skor, dan pelaporan hasil.
+Website Management System LBUT adalah sistem manajemen berbasis web yang dirancang untuk mengelola berbagai aspek dari Liga Bulutangkis Universitas Tarumanagara. Proyek ini bertujuan untuk mempermudah pengorganisasian dan pengelolaan liga, termasuk pendaftaran pemain, jadwal pertandingan, pembayaran iuran, dan list pelatihan.
 
 ## Daftar Isi
 1. [Persiapan](#persiapan)
