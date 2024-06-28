@@ -10,6 +10,7 @@ Website Management System LBUT adalah sistem manajemen berbasis web yang diranca
 ## Daftar Isi
 1. [Persiapan](#persiapan)
 2. [Instalasi](#instalasi)
+3. [Email dan Password Autentikasi](#Autentikasi).
 
 ## Persiapan
 
@@ -117,3 +118,14 @@ php artisan migrate:fresh --seed
 Setelah mengikuti langkah-langkah di atas, proyek ini akan siap digunakan. Pastikan semua konfigurasi pada file .env sudah benar sesuai dengan lingkungan pengembangan Anda.
 
 Dengan README.md ini, pengguna akan memiliki panduan yang jelas untuk menyiapkan lingkungan dan menginstal proyek dengan benar.
+
+
+## Autentikasi
+
+Setelah menjalankan website terdapat autentikasi yang dimana membutuhkan email dan password admin. untuk email dan password sebagai berikut:
+
+#### Email
+admin@gmail.com
+
+#### Password
+adminadmin
